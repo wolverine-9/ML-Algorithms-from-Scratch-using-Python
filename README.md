@@ -1,1 +1,1 @@
-# ML-Algorithms-from-Scratch-using-Python
+# Machine Learning Algorithms from Scratch using Python
